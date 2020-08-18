@@ -1,5 +1,5 @@
-# chromeos-build
-Scripts to build Chrome OS easily
+# Gello OS Build Script
+Scripts to build Gello OS easily
 
 ## How to run Chromium OS on KVM
 
